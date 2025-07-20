@@ -2,6 +2,8 @@
 
 ### Note: Data (openly available) for this analysis is obtained from this [link](https://www.kaggle.com/datasets/usdot/flight-delays?ref=hackernoon.com).
 
+[Access "Flights Delays and Cancellations (2015 US)" dashboard here](https://app.powerbi.com/groups/me/reports/2f63d05f-abe7-44b2-9d33-fd45df73221d/7fbb55f7b669ccf047e9?experience=power-bi)
+
 #### The goal of this analysis is to identify the most common causes of flight disruptions by studying the frequency of cancellations by airline.
 
 **Power BI concepts used:**
@@ -18,8 +20,6 @@
 ![2015 US Flight Diversion Statistics](/2015_US_Flight_Diversions_Stats.png)
 
 ![2015 US Flight - Reasons for Delays and Cancellations](/2015_US_Flight_Reasons_for_Delays&Cancellations.png)
-
-[Access "Flights Delays and Cancellations (2015 US)" dashboard here](https://app.powerbi.com/groups/me/reports/2f63d05f-abe7-44b2-9d33-fd45df73221d/7fbb55f7b669ccf047e9?experience=power-bi)
 
 #### Analysis outcomes as follows:
 
